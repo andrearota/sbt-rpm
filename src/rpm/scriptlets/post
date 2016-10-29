@@ -1,0 +1,2 @@
+#!/bin/sh
+alternatives --install /usr/bin/sbt-rpm sbt-rpm /usr/share/sbt-rpm/bin/sbt-rpm 2
