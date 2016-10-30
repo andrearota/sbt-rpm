@@ -1,4 +1,4 @@
-# sbt-rpm
+# Scala to RPM
 A toy SBT project that creates installable RPM files from Scala sources.
 
 ## Why?
