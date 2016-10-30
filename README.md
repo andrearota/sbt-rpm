@@ -5,7 +5,9 @@ A toy SBT project that creates installable RPM files from Scala sources.
 
 This project might be a useful starting point to package your Scala and Spark programs in RPM files and distribute them in your datacenter using Yum or DevOPS tools, such as [Ansible](https://www.ansible.com/), [Puppet](https://puppet.com/) or [Salt](https://saltstack.com/).
 
-This template project is based on the work done by [SBT Native Packager plugin](https://github.com/sbt/sbt-native-packager) and was tested on CentOS 7.
+This template project is based on the work done by [SBT Native Packager plugin](https://github.com/sbt/sbt-native-packager) and was tested on CentOS 7. 
+
+I found many tutorials on using SBT Native Packager to produce RPMs, but I wanted to start from scratch and create the smallest configuration possible, to keep things lean and tidy.
 
 ## Building
 
