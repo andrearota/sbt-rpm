@@ -21,7 +21,7 @@ To install the RPM you can use either `rpm` or `yum` commands:
 
     rpm -i target/rpm/RPMS/noarch/sbt-rpm-1.0-1.noarch.rpm
 
-or:
+or let Yum manage your dependencies (better):
 
     yum install target/rpm/RPMS/noarch/sbt-rpm-1.0-1.noarch.rpm
 
