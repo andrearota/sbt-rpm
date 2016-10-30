@@ -1,2 +1,0 @@
-#!/bin/sh
-alternatives --remove sbt-rpm /usr/share/sbt-rpm/bin/sbt-rpm
